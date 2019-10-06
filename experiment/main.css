@@ -1,5 +1,5 @@
 body{
-    background-image: url("../.res/back.png");
+    background-image: url("res/back.png");
     background-attachment: fixed;
     padding:3%;
 }
