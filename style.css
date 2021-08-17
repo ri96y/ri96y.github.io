@@ -1,0 +1,21 @@
+body{
+    background: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    color: white;
+}
+
+#cent{
+    text-align: center;
+    position: absolute;
+    margin: auto;
+    padding: 0;
+    top: 30%;
+}
